@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modeerf VPN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        p {
+            text-align: center;
+            margin: 10px 0;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+        }
+        .feature-box {
+            width: 30%;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .download-btn {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Modeerf VPN</h1>
+    <p>MADE IN EARTH - MADE FOR UNIVERSITY</p>
+</header>
+
+<div class="container">
+    <h2>Break Free from the Matrix</h2>
+    <p>If you're ready to leave the matrix of everyday life and take control of how you live, Modeerf VPN is for you.</p>
+    <p>Navigate the web your way. Securely. Freely. Always.</p>
+
+    <p style="font-weight: bold;">MADE IN EARTH - MADE FOR UNIVERSITY</p> <!-- Добавлено сюда -->
+
+    <div class="features">
+        <div class="feature-box">
+            <h3>Ultimate Security</h3>
+            <p>Your data stays private with our top-level encryption.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Global Access</h3>
+            <p>Browse the web from anywhere in the world without restrictions.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Fast and Reliable</h3>
+            <p>High-speed VPN that doesn’t slow you down.</p>
+        </div>
+    </div>
+
+    <a href="#" class="download-btn">Download Modeerf VPN</a>
+</div>
+
+<footer>
+    <p>© 2024 Modeerf VPN. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
